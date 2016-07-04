@@ -1,0 +1,17 @@
+exp(- b1_1*conj(x1) - b1_2*conj(x2) - b1_3*conj(x3))*((exp(b1_1*conj(x1) + b1_2*conj(x2) + b1_3*conj(x3))*conj(x1))
+-------------------------------------------------------------------------------------------------------------------
+(exp(b1_1*conj(x1) + b1_2*conj(x2) + b1_3*conj(x3)) + 
+ exp(b2_1*conj(x1) + b2_2*conj(x2) + b2_3*conj(x3)) + 
+ exp(b3_1*conj(x1) + b3_2*conj(x2) + b3_3*conj(x3)) + 
+ exp(b4_1*conj(x1) + b4_2*conj(x2) + b4_3*conj(x3)) + 
+ exp(b5_1*conj(x1) + b5_2*conj(x2) + b5_3*conj(x3)) + 1) - (exp(2*b1_1*conj(x1) + 2*b1_2*conj(x2) + 2*b1_3*conj(x3))*conj(x1))
+															------------------------------------------------------------------								
+														   (exp(b1_1*conj(x1) + b1_2*conj(x2) + b1_3*conj(x3)) + 
+														    exp(b2_1*conj(x1) + b2_2*conj(x2) + b2_3*conj(x3)) + 
+															exp(b3_1*conj(x1) + b3_2*conj(x2) + b3_3*conj(x3)) + 
+															exp(b4_1*conj(x1) + b4_2*conj(x2) + b4_3*conj(x3)) + 
+															exp(b5_1*conj(x1) + b5_2*conj(x2) + b5_3*conj(x3)) + 1)^2)*(exp(b1_1*conj(x1) + b1_2*conj(x2) + b1_3*conj(x3)) +
+																														exp(b2_1*conj(x1) + b2_2*conj(x2) + b2_3*conj(x3)) + 
+																														exp(b3_1*conj(x1) + b3_2*conj(x2) + b3_3*conj(x3)) + 
+																														exp(b4_1*conj(x1) + b4_2*conj(x2) + b4_3*conj(x3)) + 
+																														exp(b5_1*conj(x1) + b5_2*conj(x2) + b5_3*conj(x3)) + 1)
