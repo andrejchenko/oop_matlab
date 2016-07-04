@@ -1,0 +1,7 @@
+Iteration: 1, Sunsal unmixing accuracy: 22.165 with fixed lambda: 0.900
+Iteration: 2, Sunsal unmixing accuracy: 15.321 with fixed lambda: 0.900
+Iteration: 1, Sunsal unmixing accuracy: 17.229 with fixed lambda: 0.900
+Iteration: 2, Sunsal unmixing accuracy: 15.469 with fixed lambda: 0.900
+Iteration: 3, Sunsal unmixing accuracy: 27.161 with fixed lambda: 0.900
+Iteration: 4, Sunsal unmixing accuracy: 26.984 with fixed lambda: 0.900
+Iteration: 5, Sunsal unmixing accuracy: 6.530 with fixed lambda: 0.900

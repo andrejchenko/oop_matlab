@@ -1,0 +1,1 @@
+Iteration: 1, Combined accuracy: 20.680 with fixed lambda: 
